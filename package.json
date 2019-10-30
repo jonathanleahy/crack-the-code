@@ -7,7 +7,8 @@
     "test": "test"
   },
   "dependencies": {
-    "jasmine": "^2.4.1"
+    "jasmine": "^2.4.1",
+    "jest-cli": "^24.9.0"
   },
   "devDependencies": {
     "jasmine": "2.8.0",
